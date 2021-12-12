@@ -13,7 +13,7 @@ fundamental concepts for designing, using, and implementing database systems and
 
 ## Esquema da BD MovieStream
 
-![Captura de ecrã 2021-12-12, às 11.55.17.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6037bc27-e74c-4e22-8831-79db340467b9/Captura_de_ecra_2021-12-12_as_11.55.17.png)(https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6037bc27-e74c-4e22-8831-79db340467b9/Captura_de_ecra_2021-12-12_as_11.55.17.png)
+![Captura de ecrã 2021-12-12, às 12.04.36.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f693dd87-ec8c-4492-8f38-f1399decf659/Captura_de_ecra_2021-12-12_as_12.04.36.png)
 
 ### [===================== Exercise 1 ========================](https://github.com/eduardoAfer/SQL/blob/main/Exercises/ex1.sql)
 
