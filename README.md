@@ -13,8 +13,6 @@ fundamental concepts for designing, using, and implementing database systems and
 
 ## Esquema da BD MovieStream
 
-![Captura de ecrã 2021-12-12, às 12.04.36.png](https://www.notion.so/ficha-6-5696643101cc4cb2a8b3611a175538c0#82d575bb17624f458cd86ce02bcddbef)
-
 ### [===================== Exercise 1 ========================](https://github.com/eduardoAfer/SQL/blob/main/Exercises/ex1.sql)
 $R_0 ← σ_{Duration ≥ 180} (MOVIE)$
 
@@ -22,7 +20,6 @@ $R_1 ← π_{Title,Year} (R_0)$
 
 Escreva uma instrução **SELECT** para obter os registos correspondentes à seguinte sequência de operações em álgebra relacional para a BD MovieStream:
 
-![Captura de ecrã 2021-12-11, às 09.10.29.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d4361dae-8ccf-4c28-8c4c-8987599383e0/Captura_de_ecra_2021-12-11_as_09.10.29.png)
 
 **Resultado esperado (a ordem é irrelevante, não precisa de usar ORDER BY):**
 
@@ -58,7 +55,7 @@ Escreva uma instrução **SELECT** para obter os registos correspondentes à s
 
 Escreva uma instrução **SELECT** para obter os registos correspondentes à seguinte sequência de operações em álgebra relacional para a BD MovieStream:
 
-![Captura de ecrã 2021-12-11, às 09.14.11.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0d0e00d0-d0c2-4d57-83d3-774b0a5bdd0e/Captura_de_ecra_2021-12-11_as_09.14.11.png)
+
 
 **Resultado esperado (a ordem é irrelevante, não precisa de usar ORDER BY):**
 
